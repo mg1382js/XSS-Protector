@@ -1,0 +1,14 @@
+{
+  "name": "@mahdi.golzar/xssprotector",
+  "version": "1.0.0",
+  "description": "XSSProtector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "XssProtector"
+  ],
+  "author": "mahdi.golzar",
+  "license": "ISC"
+}
